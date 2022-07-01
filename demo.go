@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
-	s := `hello,
-world`
-	fmt.Printf("%s\n",s)
+func main() {
+	s := `hello,world`
+	fmt.Printf("%s\n", s)
 }
